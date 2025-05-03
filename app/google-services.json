@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963418247614",
+    "project_id": "phycare-a9e2b",
+    "storage_bucket": "phycare-a9e2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963418247614:android:2b8e50e5bb9f7d5e3569ef",
+        "android_client_info": {
+          "package_name": "com.project.phycare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1lkGLyEnnxy4dZW0cBRHJ8Xt7iqanXPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
